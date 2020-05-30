@@ -1,2 +1,2 @@
-Magento
+Magento Clean-up File
 =======
